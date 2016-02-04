@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	9264E360140D72800030A728 /* emptyExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = emptyExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9264E366140D72860030A728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	9264E378140D72860030A728 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9264E379140D72860030A728 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9264E53A1410177C0030A728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9264E53B1410177C0030A728 /* rhondaGraphics.cpp */;
+		name = "rhondaGraphics.cpp: 44";
+		rLen = 0;
+		rLoc = 878;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 1249;
+	};
+	9264E53B1410177C0030A728 /* rhondaGraphics.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = rhondaGraphics.cpp;
+		path = /Users/zach/Documents/projects/OPENFRAMEWORKS/versions/of_preRelease_v0062_iphone_FAT/apps/jigazo/jigazoIphone_steve_good_02/src/rhondaGraphics.cpp;
+		sourceTree = "<absolute>";
+	};
+	9264E53F1410177C0030A728 /* rhondaGraphics.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = rhondaGraphics.cpp;
+		path = /Users/zach/Documents/projects/OPENFRAMEWORKS/versions/of_preRelease_v0062_iphone_FAT/apps/rhonda/rhondaIPad/src/graphics/rhondaGraphics.cpp;
+		sourceTree = "<absolute>";
+	};
+	9264E565141123FF0030A728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9264E53F1410177C0030A728 /* rhondaGraphics.cpp */;
+		name = "rhondaGraphics.cpp: 131";
+		rLen = 0;
+		rLoc = 3490;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 3344;
+	};
+	9264E567141123FF0030A728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 6";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	9264E59314112B3A0030A728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 10";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 631;
+		vrLoc = 22;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9264E360140D72800030A728 /* emptyExample */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* emptyExample */;
+		codeSenseManager = 9264E379140D72860030A728 /* Code sense */;
+		executables = (
+			9264E360140D72800030A728 /* emptyExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					472,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336669190;
+			PBXWorkspaceStateSaveDate = 336669190;
+		};
+		perUserProjectItems = {
+			9264E366140D72860030A728 /* PBXTextBookmark */ = 9264E366140D72860030A728 /* PBXTextBookmark */;
+			9264E53A1410177C0030A728 /* PBXTextBookmark */ = 9264E53A1410177C0030A728 /* PBXTextBookmark */;
+			9264E565141123FF0030A728 /* PBXTextBookmark */ = 9264E565141123FF0030A728 /* PBXTextBookmark */;
+			9264E567141123FF0030A728 /* PBXTextBookmark */ = 9264E567141123FF0030A728 /* PBXTextBookmark */;
+			9264E59314112B3A0030A728 /* PBXTextBookmark */ = 9264E59314112B3A0030A728 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9264E378140D72860030A728 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* emptyExample */ = {
+		activeExec = 0;
+		executables = (
+			9264E360140D72800030A728 /* emptyExample */,
+		);
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 1760}}";
+			sepNavSelRange = "{162, 0}";
+			sepNavVisRange = "{22, 631}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 490}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+}
